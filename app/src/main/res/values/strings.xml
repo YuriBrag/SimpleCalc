@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OlaMundo</string>
+    <string name="val1">Valor 1</string>
+    <string name="val2">Valor 2</string>
+    <string name="result">O Resultado é:</string>
+    <string name="sum">+</string>
+    <string name="div">/</string>
+    <string name="mult">*</string>
+    <string name="neg">-</string>
+</resources>
