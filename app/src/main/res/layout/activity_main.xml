@@ -29,7 +29,7 @@
         app:layout_constraintTop_toBottomOf="@id/appName"
         android:background="#FFF"
         android:textColor="#000"
-        
+
          />
 
     <EditText
